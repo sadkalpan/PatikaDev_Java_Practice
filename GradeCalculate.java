@@ -29,7 +29,7 @@ public class GradeCalculate {
         average_grade = (mathematic+physic+chemistry+turkish+history+music)/6;
         System.out.println("Avarega grade is the: " + average_grade);
 
-        StringResult =  average_grade > 60 ? "sinifi gecti" : "sinifta kaldi54";
+        StringResult =  average_grade > 60 ? "sinifi gecti" : "sinifta kaldi";
         System.out.println(StringResult);
     }
 }
