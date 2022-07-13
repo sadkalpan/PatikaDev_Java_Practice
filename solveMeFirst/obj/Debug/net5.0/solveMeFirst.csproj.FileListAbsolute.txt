@@ -1,0 +1,16 @@
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\bin\Debug\net5.0\solveMeFirst.exe
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\bin\Debug\net5.0\solveMeFirst.deps.json
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\bin\Debug\net5.0\solveMeFirst.runtimeconfig.json
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\bin\Debug\net5.0\solveMeFirst.runtimeconfig.dev.json
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\bin\Debug\net5.0\solveMeFirst.dll
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\bin\Debug\net5.0\solveMeFirst.pdb
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.csproj.AssemblyReference.cache
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.AssemblyInfoInputs.cache
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.AssemblyInfo.cs
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.csproj.CoreCompileInputs.cache
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.dll
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\refint\solveMeFirst.dll
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.pdb
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\solveMeFirst.genruntimeconfig.cache
+C:\Users\sadka\OneDrive\Belgeler\Asp.Net Core\Patika solution\solveMeFirst\obj\Debug\net5.0\ref\solveMeFirst.dll
